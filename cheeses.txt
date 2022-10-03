@@ -6,3 +6,4 @@
 - Camembert
 - Mozzarella
 - Fontina
+- Wensleydale
